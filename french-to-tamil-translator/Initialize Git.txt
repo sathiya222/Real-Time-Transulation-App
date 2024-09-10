@@ -1,0 +1,5 @@
+Run the following commands in the terminal:
+
+git init
+git add translator.py
+git commit -m "Initial commit with French to Tamil translator code"

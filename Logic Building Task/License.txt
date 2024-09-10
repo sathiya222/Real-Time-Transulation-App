@@ -1,0 +1,7 @@
+
+### `requirements.txt`
+
+This file lists the Python packages required for application:
+
+   googletrans==4.0.0-rc1
+

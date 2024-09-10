@@ -1,0 +1,14 @@
+This project is licensed under the MIT License.
+
+
+**Initialize Git and Push Your Files**:
+
+   Open your terminal or command prompt and navigate to your project directory. Then, run the following commands:
+
+   ```sh
+   git init
+   git add translator.py README.md
+   git commit -m "Initial commit"
+   git branch -M main
+   git remote add origin https://github.com/sathiya222/english-to-hindi-translator.git
+   git push -u origin main

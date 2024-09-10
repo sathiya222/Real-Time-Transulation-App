@@ -1,0 +1,1 @@
+Run the script translator.py to start the GUI application.
